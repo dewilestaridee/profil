@@ -153,6 +153,10 @@ header {
 .lesson-icon {
   position: relative;
 }
+.lesson-icon1 img{
+  position: relative;
+  height:550px;
+}
 
 .lesson-icon p {
   position: absolute;
@@ -178,9 +182,18 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-  background-image: url(https://i.pinimg.com/564x/3b/64/58/3b645827b6a5c99cc125d2d75a3ed0f9.jpg);
+  background-image: url(https://i.pinimg.com/564x/6d/8e/d0/6d8ed0fa2837489483164699a11d028b.jpg);
   background-size: cover;
 }
+
+.message-wrapper h1{
+  font-size: 40px;
+}
+.message-wrapper h3{
+  font-size: 30px;
+
+}
+
 
 .message {
   padding: 15px 40px;
@@ -200,11 +213,12 @@ footer img {
 }
 
 footer p {
-  color: #b3aeb5;
-  font-size: 12px;
+  color: black;
+  font-size: 16px;
 }
 
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: beige;
 }
