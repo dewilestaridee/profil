@@ -150,6 +150,10 @@ header {
   font-weight: normal;
 }
 
+.heading img{
+  width:50%;
+}
+
 .lesson {
   float: left;
   width: 25%;
