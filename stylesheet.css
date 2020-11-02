@@ -44,7 +44,8 @@ a {
 }
 
 .top-wrapper img{
-width: 25px;
+width: 10%;
+  overflow:hidden;
 }
 
 .btn-wrapper {
