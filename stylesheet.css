@@ -43,6 +43,10 @@ a {
   margin-bottom: 3px;
 }
 
+.top-wrapper img{
+width: 25%;
+}
+
 .btn-wrapper {
   text-align: center;
   margin: 20px 0;
